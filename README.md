@@ -1,20 +1,63 @@
-🚀 HTML Project-Based Learning
+# 🚀 HTML Project-Based Learning
 
-This repository contains my journey of learning HTML through hands-on projects. Instead of only focusing on theory, I am building real mini projects to understand how HTML works in real-world web development.
+This repository documents my journey of learning **HTML through hands-on projects**.  
+Instead of only focusing on theory, I am building real-world mini projects to understand how HTML works in practical web development.
 
-📌 What this repository includes:
-• Beginner to intermediate HTML projects  
-• Practical implementations of HTML concepts  
-• Structured learning with project-based approach  
-• Clean and simple webpage layouts  
+---
 
-🎯 Goal:
-To build a strong foundation in web development by mastering HTML through practical projects.
+## 📌 About This Repository
 
-🛠 Tech Stack:
-• HTML5  
+This repo contains multiple **HTML projects from beginner to intermediate level** that help in strengthening web development fundamentals.
 
-📚 Learning Approach:
+The goal is to learn HTML in a **project-based way** by building practical web pages.
+
+---
+
+## 🎯 Learning Goals
+
+- Build strong **HTML fundamentals**
+- Understand **webpage structure**
+- Practice **semantic HTML**
+- Create **real-world mini projects**
+- Prepare for **frontend development**
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+
+---
+
+## 📂 Projects Included
+
+Some of the projects in this repository:
+
+- Personal Profile Page
+- Resume Website
+- Simple Blog Page
+- Landing Page
+- Product Page
+- Contact Form
+- Portfolio Website
+- Restaurant Website
+
+(More projects will be added as I continue learning.)
+
+---
+
+## 📚 Learning Approach
+
 Learn → Build → Practice → Improve
 
-This repository is part of my journey to become a Full Stack / AI-powered Web Developer.
+---
+
+## 👨‍💻 Author
+
+**Akhil Kumar**
+
+Aspiring **Full Stack Developer | AI Powered Web Developer**
+
+---
+
+⭐ If you like this repository, feel free to star it!
